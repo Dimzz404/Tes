@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#5aff29#!/usr/bin/python3
 #-*-coding:utf-8-*-
 # Made With ❤️ By DimzzDapuntak
 
@@ -39,6 +39,7 @@ ____ ___ __  __ __________
 | | | | || |\/| | / /  / /
 | |_| | || |  | |/ /_ / /_ 
 |____/___|_|  |_/____/____| ┌──────────────────────────────┐\n/_/  /_/__\__/(_) Force 3.0  │  Script By Dapunta Khurayra  │\n       /  ^ \/ / // /  ^ \   │   •• Github.com/Dapunta ••   │\n      /_/_/_/_/\_,_/_/_/_/   └──────────────────────────────┘ """)
+  menu ()
 
 host="https://mbasic.facebook.com"
 ok = []
